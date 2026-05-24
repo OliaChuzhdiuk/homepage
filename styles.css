@@ -223,8 +223,13 @@ body {
   padding-left: 20px;
 }
 
+.project-link {
+  text-decoration: none;
+  color: inherit;
+}
+
 .additional-info {
-  flex: 1 1 40%;
+  flex: 1 1 60%;
 }
 
 .additional-info__education {
